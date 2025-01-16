@@ -44,17 +44,31 @@ How to Use
 4.    Scroll to the bottom of the list to load more repositories.
 5.    Tap on a repository to view additional details.
 
-Screenshots
+## Screenshots
 
-Include screenshots in the following format:
-•    Home Screen:
+### Home Screen
+![Default View](media/default_view.png)
 
-```
-•    Filtered View:
+### Filtered View
+![Repository List Filtered by Language](media/repository_list_filter_by_language.png)
 
-•    Detail View:
-```
+### Detail View
+![Repository Detail View](media/repository_detail_view.png)
 
+### Search View
+![Search View](media/search_view.png)
+
+### No Results Found
+![No Repositories Found](media/No_repositories_found.png)
+
+### Network Error
+![Network Error](media/network_error.png)
+
+### Language Filter
+![Language Filter](media/language_filter.png)
+
+### Video Demo
+[Video Recording of App](media/video_recording_of_app.mov)
 Known Issues
 •    The app may display errors if the GitHub API rate limit is exceeded.
 •    Some test cases for invalid usernames and pagination are not included.
