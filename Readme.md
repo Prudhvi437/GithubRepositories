@@ -69,6 +69,8 @@ How to Use
 
 ### Video Demo
 [Video Recording of App](media/video_recording_of_app.mov)
+
+
 Known Issues
 •    The app may display errors if the GitHub API rate limit is exceeded.
 •    Some test cases for invalid usernames and pagination are not included.
