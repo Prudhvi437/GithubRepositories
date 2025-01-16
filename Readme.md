@@ -47,45 +47,45 @@ How to Use
 ## Screenshots
 
 ### Home Screen
-![Default View](media/default_view.png)
+<img src="media/default_view.png" width="500">
 
 ### Filtered View
-![Repository List Filtered by Language](media/repository_list_filter_by_language.png)
+<img src="media/repository_list_filter_by_language.png" width="500">
 
 ### Detail View
-![Repository Detail View](media/repository_detail_view.png)
+<img src="media/repository_detail_view.png" width="500">
 
 ### Search View
-![Search View](media/search_view.png)
+<img src="media/search_view.png" width="500">
 
 ### No Results Found
-![No Repositories Found](media/No_repositories_found.png)
+<img src="media/No_repositories_found.png" width="500">
 
 ### Network Error
-![Network Error](media/network_error.png)
+<img src="media/network_error.png" width="500">
 
 ### Language Filter
-![Language Filter](media/language_filter.png)
+<img src="media/language_filter.png" width="500">
 
 ### Video Demo
 [Video Recording of App](media/video_recording_of_app.mov)
 
-
-Known Issues
-•    The app may display errors if the GitHub API rate limit is exceeded.
-•    Some test cases for invalid usernames and pagination are not included.
-
-Dependencies
-•    Combine framework for handling asynchronous requests.
-•    SwiftUI for building the user interface.
-
-Possible Future Enhancements
-•    Add caching for repository data to minimize API requests.
-•    Enhance error messages for better user experience.
-•    Implement real-time search with a debounce feature.
-
-License
-
-This project is licensed under the MIT License. 
+---
+## Known Issues
+* The app may display errors if the GitHub API rate limit is exceeded.
+* Some test cases for invalid usernames and pagination are not included.
 
 ---
+## Dependencies
+* Combine framework for handling asynchronous requests.
+* SwiftUI for building the user interface.
+
+---
+## Possible Future Enhancements
+* Add caching for repository data to minimize API requests.
+* Enhance error messages for better user experience.
+* Implement real-time search with a debounce feature.
+
+---
+## License
+This project is licensed under the MIT License.
